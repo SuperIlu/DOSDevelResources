@@ -9,21 +9,35 @@ This is my short list of interesting resources for MS-DOS development.
 DJGPP is a complete 32-bit C/C++ development system for Intel 80386 (and higher) PCs running DOS. It includes ports of many GNU development utilities. The development tools require a 80386 or newer computer to run, as do the programs they produce. In most cases, the programs it produces can be sold commercially without license or royalties. 
 
 ### Links
-Project page: https://www.delorie.com/djgpp/
-Creating a cross compiler on Linux: https://github.com/jwt27/build-gcc
+- Project page: https://www.delorie.com/djgpp/
+- Creating a cross compiler on Linux: https://github.com/jwt27/build-gcc
+- RHIDE integrated enviroment for DJGPP: https://sourceforge.net/projects/rhide/
 
 # OpenWatcom (F)
-An open source version of the Watcom C/C++ compiler able to create EXEs for 16/32bit DOS and Windows.
+An open source version of the Watcom C/C++ and FORTRAN 77 compiler able to create EXEs for 16/32bit DOS and Windows.
 
 ### Links
-Project page: http://www.openwatcom.org/
-Friendly fork: https://github.com/open-watcom/open-watcom-v2
+- Project page: http://www.openwatcom.org/
+- Friendly fork: https://github.com/open-watcom/open-watcom-v2
 
 ## FreeBASIC
 FreeBASIC is a free/open source (GPL), BASIC compiler for Microsoft Windows, DOS and Linux. 
 
 ### Links
 https://www.freebasic.net/
+
+## BCC
+C compiler that produces 8086 assembler for tiny/small models.
+
+### Links
+https://gitlab.com/FreeDOS/devel/bcc
+
+## GCC-IA16
+Intel 16-bit x86 port of GNU compilers
+
+### Links
+https://gitlab.com/tkchia/build-ia16
+
 
 # Interpreters/Frameworks
 ## DOjS (S)
@@ -36,8 +50,8 @@ https://github.com/SuperIlu/DOjS
 A framework for making 2D DOS games in Lua. LoveDOS provides an API based on a subset of the LÖVE API.
 
 ### Links
-Original version: https://github.com/rxi/lovedos
-My version with small fixes/improvements: https://github.com/SuperIlu/lovedos
+- Original version: https://github.com/rxi/lovedos
+- My version with small fixes/improvements: https://github.com/SuperIlu/lovedos
 
 ## QBASIC
 QuickBasic is a programming language developed by Microsoft for use in the MS-DOS operating system.
@@ -108,7 +122,6 @@ A portable, simple zip library written in C .
 
 ### Links
 https://github.com/kuba--/zip
-
 
 ## zlib
 zlib is designed to be a free, general-purpose, legally unencumbered -- that is, not covered by any patents -- lossless data-compression library for use on virtually any computer hardware and operating system.
@@ -190,3 +203,40 @@ The Doszip Commander is an LFN-aware TUI file manager (NC clone) with built-in Z
 ### Links
 https://sourceforge.net/projects/doszip/
 
+# Documentation
+
+## ctyme (F)
+HTML version of the famous Ralf Brown Interrupt List with over 9000 linked pages and 350 indexes making the process of searching much easier. This list contains every documented and undocumented interrupt call known. Ralf Brown is a Postdoctoral Fellow at Carnegie Mellon University 's Center for Machine Translation in Pittsburgh, Pennsylvania. He is well-known in cyberspace for maintaining the Interrupt List. We all appreciate his continued support.
+
+### Links
+https://www.ctyme.com/rbrown.htm
+
+## HelpPC Reference Library
+This site is a HTML version of HelpPC Reference Library, a DOS-based hypertext program by David Jurgens.
+
+### Links
+https://www.stanislavs.org/helppc/
+
+## FreeVGA
+Hardware Level VGA and SVGA Video Programming Information Page
+
+### Links
+http://www.osdever.net/FreeVGA/home.htm
+
+## SoundBlaster guide
+Sound Blaster Series Hardware Programming Guide
+
+### Links
+https://pdos.csail.mit.edu/6.828/2005/readings/hardware/SoundBlaster.pdf
+
+## Basic Gravis UltraSound Programming (F)
+The Gravis Ultrasound is by far the best & easiest sound card to program. Why? Because the card does all the hard stuff for you, leaving you and the CPU to do other things! This reference will document some (but not all) of the Gravis Ultrasound's hardware functions, allowing you to play music & sound effects on your GUS.
+
+### Links
+https://archive.gamedev.net/archive/reference/articles/article448.html
+
+## Glide 3.0 Programming Guide (F)
+Programming the 3Dfx Interactive Glide™ Rasterization Library 3.0
+
+### Links
+http://www.bitsavers.org/components/3dfx/Glide_Programming_Guide_3.0_199806.pdf
