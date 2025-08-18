@@ -176,6 +176,11 @@ PC hardware emulator
 ### Links
 https://pcem-emulator.co.uk/
 
+## MartyPC
+An IBM PC/XT emulator written in Rust. 
+### Links
+https://github.com/dbalsom/martypc
+
 # Operating systems
 Here you can find DOS compatible operating systems.
 
@@ -205,7 +210,7 @@ The Doszip Commander is an LFN-aware TUI file manager (NC clone) with built-in Z
 ### Links
 https://sourceforge.net/projects/doszip/
 
-## Smart Boot Manager
+## Smart Boot Manager (F)
 Smart Boot Manager or briefly SmartBtmgr (SBM), is an OS independent Boot Manager - a program that is loaded by the bios before any operating system and allows you to choose which operating system to boot. 
 ### Links
 https://btmgr.sourceforge.net/download.html
