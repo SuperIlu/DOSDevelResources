@@ -270,3 +270,8 @@ https://www.phatcode.net/articles.php?id=247
 This article explains how to write a fully featured Win16 GUI application in C.
 ### Links
 https://www.transmissionzero.co.uk/computing/win16-apps-in-c/
+
+## Programming the AdLib/Sound Blaster FM Music Chips
+Two of the most popular sound cards for the IBM-PC, the AdLib and the Sound Blaster, suffer from a real dearth of clear documentation for programmers. AdLib Inc. and Creative Labs, Inc. both sell developers' kits for their sound cards, but these are expensive, and (in the case of the Sound Blaster developers' kit) can be extremely cryptic. This document is intended to provide programmers with a FREE source of information about the programming of these sound cards. 
+### Links
+http://www.shipbrook.net/jeff/sb.html
