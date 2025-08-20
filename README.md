@@ -80,6 +80,11 @@ ADVGEN is a text adventure game compiler and interpreter system that I wrote in 
 ### Links
 https://github.com/RobertSundling/ADVGEN
 
+## DIV Games Studio 2
+Complete cross platform games development package, originally for DOS but now available on modern platforms. 
+### Links
+https://github.com/DIVGAMES/DIV-Games-Studio
+
 # Libraries
 Helper libraries for various topics.
 
