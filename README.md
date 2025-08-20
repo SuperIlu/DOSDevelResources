@@ -275,3 +275,8 @@ https://www.transmissionzero.co.uk/computing/win16-apps-in-c/
 Two of the most popular sound cards for the IBM-PC, the AdLib and the Sound Blaster, suffer from a real dearth of clear documentation for programmers. AdLib Inc. and Creative Labs, Inc. both sell developers' kits for their sound cards, but these are expensive, and (in the case of the Sound Blaster developers' kit) can be extremely cryptic. This document is intended to provide programmers with a FREE source of information about the programming of these sound cards. 
 ### Links
 http://www.shipbrook.net/jeff/sb.html
+
+## The Graphics File Formats Page
+This site contains specifications for various graphics file formats; along with a number of relevant graphics utilities, information, and URLs. The site was originally created in 1994 to help serve the growing community of web developers. 
+### Links
+https://www.martinreddy.net/gfx/
