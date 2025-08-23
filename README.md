@@ -158,6 +158,11 @@ A tiny ANSI C library for loading .ini config files
 ### Links
 https://github.com/rxi/ini
 
+## ObjFW
+An Objective-C framework that supports MS-DOS and DJGPP as a first class citizen providing almost everything such as basic collection types, Unicode support including converting from and to MS-DOS code pages, file format parsers for XML, JSON, INI and many more, support for archive formats such as ZIP, GZIP, LHA, ZOO and much, much more.
+### Links
+https://objfw.nil.im/
+
 # Emulation
 If you don't have real hardware available you can run your DOS programs using the following emulators.
 
