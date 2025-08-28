@@ -85,6 +85,12 @@ Complete cross platform games development package, originally for DOS but now av
 ### Links
 https://github.com/DIVGAMES/DIV-Games-Studio
 
+## GW-BASIC
+### Links
+- GW-BASIC: https://codeberg.org/tkchia/GW-BASIC
+- PC-BASIC, Free, cross-platform emulator for the GW-BASIC family of interpreters: https://robhagemans.github.io/pcbasic/
+- A collection of GW-BASIC code by various authors: https://github.com/robhagemans/hoard-of-gwbasic
+
 # Libraries
 Helper libraries for various topics.
 
@@ -285,3 +291,8 @@ http://www.shipbrook.net/jeff/sb.html
 This site contains specifications for various graphics file formats; along with a number of relevant graphics utilities, information, and URLs. The site was originally created in 1994 to help serve the growing community of web developers. 
 ### Links
 https://www.martinreddy.net/gfx/
+
+## Programming MS-DOS with Power
+DOS Programming, Undocumented DOS, and DOS Secrets
+### Links
+https://www.fysnet.net/index.htm
