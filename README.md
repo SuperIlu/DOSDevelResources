@@ -302,3 +302,12 @@ https://www.fysnet.net/index.htm
 Information and history about PC DOS and MS-DOS
 ### Links
 https://pcdosretro.gitlab.io/
+
+# Videos
+## "Let's Code - MS DOS" Playlist by root42
+### Links
+https://www.youtube.com/playlist?list=PLGJnX2KGgaw2L7Uv5NThlL48G9y4rJx1X
+
+## "FreeDOS programming" by FreeDOS
+### Links
+https://www.youtube.com/playlist?list=PLzuACU-W7Omo3VEnMKuM0IPupdOHFDzL3
