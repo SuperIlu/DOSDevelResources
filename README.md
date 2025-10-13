@@ -303,6 +303,11 @@ Information and history about PC DOS and MS-DOS
 ### Links
 https://pcdosretro.gitlab.io/
 
+## C Programming in DOS Tips
+A one page set of tips for C programmers adjusting to MS-DOS or PC DOS. 
+### Links
+https://www.brutman.com/Adventures_In_Code/DOS_Programming_Tips_full_page.pdf
+
 # Videos
 ## "Let's Code - MS DOS" Playlist by root42
 ### Links
