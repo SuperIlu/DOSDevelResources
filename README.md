@@ -308,6 +308,12 @@ A one page set of tips for C programmers adjusting to MS-DOS or PC DOS.
 ### Links
 https://www.brutman.com/Adventures_In_Code/DOS_Programming_Tips_full_page.pdf
 
+## David Jurgens' HelpPC Quick Reference Utility
+HELPPC is a quick reference utility for the intermediate to advanced programmer.
+### Links
+https://www.phatcode.net/articles.php?id=236
+https://helppc.netcore2k.net/
+
 # Videos
 ## "Let's Code - MS DOS" Playlist by root42
 ### Links
