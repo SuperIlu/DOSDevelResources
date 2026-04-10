@@ -258,6 +258,11 @@ Hardware Level VGA and SVGA Video Programming Information Page
 ### Links
 http://www.osdever.net/FreeVGA/home.htm
 
+## DOS .COM startup registers
+The register values at DOS .COM file startup in the given DOS brands and versions. 
+### Links
+https://www.fysnet.net/yourhelp.htm
+
 ## SoundBlaster guide
 Sound Blaster Series Hardware Programming Guide
 ### Links
