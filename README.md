@@ -84,6 +84,7 @@ https://github.com/RobertSundling/ADVGEN
 Complete cross platform games development package, originally for DOS but now available on modern platforms. 
 ### Links
 https://github.com/DIVGAMES/DIV-Games-Studio
+https://archive.org/details/div-dx-2en
 
 ## GW-BASIC
 ### Links
