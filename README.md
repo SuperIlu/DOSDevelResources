@@ -106,6 +106,11 @@ Fork of Allegro 4.2.2 for cross compiling for DOS game development
 ### Links
 https://github.com/msikma/allegro-4.2.2-xc
 
+## DOSlegro (S)
+DOS only Fork of Allegro 4.2.2 with new Makefiles for cross compiling. Contains fixes from DOjS.
+### Links
+https://github.com/SuperIlu/DOSlegro
+
 ## PCTIMER
 Millisecond Resolution Timing With DJGPP V2 and DPMI
 ### Links
